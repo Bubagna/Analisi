@@ -1,0 +1,7 @@
+studiare le linkedlist, o trovare una soluzione migliore per mettere funzioni in relazione tra di loro.
+Le funzioni devono essere contenute in un contenitore che mi permette di includere oggetti di tipo diverso,
+eventualmente anche altri contenitori (nel caso di funzioni composte);
+
+
+
+
